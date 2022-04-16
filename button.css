@@ -5,8 +5,6 @@ button {
   margin: 10px;
   border: none;
   border-radius: 2px;
-  opacity: 0.5;
-  background-image: '/images/waldo.png';
 }
 
 button.current {
