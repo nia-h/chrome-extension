@@ -1,4 +1,27 @@
 html {
-  min-height: 200px;
-  min-width: 200px;
+  min-height: 150;
+  min-width: 150;
+}
+body {
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  /* background-image: '/images/waldo.png'; */
+}
+
+button {
+  border: none;
+  padding: 10px;
+  padding-right: 13px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  font-size: 10em;
+  font-weight: 900;
+  /* transform: rotate(0.75turn); */
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+  color: red;
 }
